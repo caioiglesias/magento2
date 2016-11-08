@@ -1711,7 +1711,6 @@ a.badge:focus {
     }
 
 /* btn-pagseguro */
-button:not(.primary),
 .btn-pagseguro {
     color: #4F7743;
     font-size: 1.2em;
